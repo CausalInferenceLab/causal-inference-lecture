@@ -23,8 +23,8 @@
 
 | 순서 | 챕터 | 내용 | 연사자(소속) | 업로드일
 |---------|---------|------|--------|-------------|
-| OT | 전체 | 인과추론 번역서 및 강의 계획 소개 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 5.1 |
-| 1강 | 1장 | 프로모션 효과분석으로 인과추론 기초 배우기 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 5.16 |
+| OT | 전체 | [인과추론 번역서 및 강의 계획 소개](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/OT_%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98.pdf) | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 5.1 |
+| 1강 | 1장 | [프로모션 효과분석으로 인과추론 기초 배우기](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/1%EA%B0%95_%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%20%ED%9A%A8%EA%B3%BC%EB%B6%84%EC%84%9D%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%EA%B3%BC%EC%B6%94%EB%A1%A0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0.pdf) | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 5.16 |
 | 2강 | 2장 | 온라인 통제 실험 소개 및 분석 기초 | [방태모](https://www.linkedin.com/in/taemo/)(Gmarket) | 5.19 |
 | 3강 | 2장 | 경제성 평가를 위한 무작위 통제 실험 | [조인서](https://www.linkedin.com/in/yinseo-cho/)(KOICA) | 5.26 |
 | 4강 | 3장 | 게임 유저의 생존분석 관점에서의 그래프 인과모델 소개 | [박시온](https://www.linkedin.com/in/rockgoat95/)(넥슨코리아) | 6.9 |
@@ -41,11 +41,10 @@
 | 15강 | 10장 | 스위치백 실험 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 9.1 |
 | 16강 | 11장 | 도구변수를 통한 프로덕트의 인앱 푸시 효과 측정 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 9.8 |
 | 17강 | 12장 | 인과관계 발견 및 모델 개발/운영 소개 | [김성수](https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/)(LG CNS) | 9.15 |
-| 18강 | 인과추론과 실무 | 인과추론으로 바라보는 게임 내 길드 영향력 분석 | [조슬지](https://www.linkedin.com/in/seul-ji-cho-4370251b8/)(넷마블에프앤씨) | 9.22 |
-| 19강 | 인과추론과 실무 | 구독 상품에 따른 retention의 인과효과 추정하기 | [김소희](https://www.linkedin.com/in/sohee-kim-9460b6113/)(TVING) | 9.29 |
-| 20강 | 인과추론과 실무 | 임상 관찰 연구에서 RCT 모사를 위한 Target Trial Emulation | [박상호](https://www.linkedin.com/in/sangho-park-4220aa22a/)(성균관대학교) | 10.6 |
-| 21강 | 인과추론과 실무 | 실무에 적용하는 인과추론 템플릿 | [김성수](https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/)(LG CNS) | 10.13 |
-| 22강 | 종강 | 에필로그 소개 및 특강 갈무리 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 10.20 |
+| 18강 | 인과추론과 실무 | 구독 상품에 따른 retention의 인과효과 추정하기 | [김소희](https://www.linkedin.com/in/sohee-kim-9460b6113/)(TVING) | 9.29 |
+| 19강 | 인과추론과 실무 | 임상 관찰 연구에서 RCT 모사를 위한 Target Trial Emulation | [박상호](https://www.linkedin.com/in/sangho-park-4220aa22a/)(성균관대학교) | 10.6 |
+| 20강 | 인과추론과 실무 | 실무에 적용하는 인과추론 템플릿 | [김성수](https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/)(LG CNS) | 10.13 |
+| 21강 | 종강 | 에필로그 소개 및 특강 갈무리 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 10.20 |
 
 ------------
 
@@ -53,7 +52,4 @@
 자료에 대한 질문은 다음 채널을 통해서 자유롭게 질문해주세요.
 - [Github의 이슈 페이지](https://github.com/CausalInferenceLab/causal-inference-lecture/issues)
 - [인과추론팀 블로그](https://causalinferencelab.github.io/) 
-- [가짜연구소 Discord](https://discord.gg/HeHbFAvmSZ) 인과추론과 실험 채널
-
-
-
+- [가짜연구소 Discord](https://discord.gg/HeHbFAvmSZ)
