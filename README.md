@@ -23,8 +23,8 @@
 
 | 순서 | 챕터 | 내용 | 연사자(소속) | 업로드일
 |---------|---------|------|--------|-------------|
-| OT | 전체 | [인과추론 번역서 및 강의 계획 소개](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/OT_%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98.pdf) | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 5.1 |
-| 1강 | 1장 | [프로모션 효과분석으로 인과추론 기초 배우기](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/1%EA%B0%95_%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%20%ED%9A%A8%EA%B3%BC%EB%B6%84%EC%84%9D%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%EA%B3%BC%EC%B6%94%EB%A1%A0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0.pdf) | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 5.16 |
+| OT | 전체 | [인과추론 번역서 및 강의 계획 소개](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/00_%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98.pdf) | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 5.1 |
+| 1강 | 1장 | [프로모션 효과분석으로 인과추론 기초 배우기](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/01_%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%20%ED%9A%A8%EA%B3%BC%EB%B6%84%EC%84%9D%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%EA%B3%BC%EC%B6%94%EB%A1%A0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0.pdf) | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 5.16 |
 | 2강 | 2장 | 온라인 통제 실험 소개 및 분석 기초 | [방태모](https://www.linkedin.com/in/taemo/)(Gmarket) | 5.19 |
 | 3강 | 2장 | 경제성 평가를 위한 무작위 통제 실험 | [조인서](https://www.linkedin.com/in/yinseo-cho/)(KOICA) | 5.26 |
 | 4강 | 3장 | 게임 유저의 생존분석 관점에서의 그래프 인과모델 소개 | [박시온](https://www.linkedin.com/in/rockgoat95/)(넥슨코리아) | 6.9 |
