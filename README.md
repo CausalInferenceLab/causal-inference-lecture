@@ -3,7 +3,7 @@
 ## Introduction
 안녕하세요. [가짜연구소 Causal Inference 팀](https://pseudo-lab.com/6bbf03d9f11d4af687c0f03c6db39b1b)입니다.   
 
-이번에 출간된 [실무로 통하는 인과추론 with 파이썬](https://product.kyobobook.co.kr/detail/S000212577153)을 바탕으로 박지용 교수님 & 가짜연구소 인과추론팀과 함께 특강을 기획하게 되었습니다. 가짜연구소 인과추론팀 17명의 구성원이 실무자/연구자 관점에서 바라본 인과추론 및 적용 사례에 대한 내용이 담았으니, 이 특강에 대한 여러분의 많은 관심 부탁드립니다.
+이번에 출간된 [실무로 통하는 인과추론 with 파이썬](https://product.kyobobook.co.kr/detail/S000212577153)을 바탕으로 박지용 교수님 & 가짜연구소 인과추론팀과 함께 특강을 기획하게 되었습니다. 가짜연구소 인과추론팀 16명의 구성원이 실무자/연구자 관점에서 바라본 인과추론 및 적용 사례에 대한 내용이 담았으니, 이 특강에 대한 여러분의 많은 관심 부탁드립니다.
 - [실무로 통하는 인과추론 with 파이썬 특강 Youtube](https://www.youtube.com/playlist?list=PLKKkeayRo4PWuwIL0_C7n_QQQ_at6CpoE)
 
 ------------
@@ -27,9 +27,9 @@
 | OT | 전체 | [인과추론 번역서 및 강의 계획 소개](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/00_%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98.pdf) | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 5.1 |
 | 1강 | 1장 | [프로모션 효과분석으로 인과추론 기초 배우기](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/01_%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%20%ED%9A%A8%EA%B3%BC%EB%B6%84%EC%84%9D%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%EA%B3%BC%EC%B6%94%EB%A1%A0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0.pdf) | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 5.16 |
 | 2강 | 2장 | [온라인 통제 실험 소개 및 통계 분석 기초](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/02_%EC%98%A8%EB%9D%BC%EC%9D%B8%20%ED%86%B5%EC%A0%9C%20%EC%8B%A4%ED%97%98%20%EC%86%8C%EA%B0%9C%20%EB%B0%8F%20%ED%86%B5%EA%B3%84%20%EB%B6%84%EC%84%9D%20%EA%B8%B0%EC%B4%88.pdf) | [방태모](https://www.linkedin.com/in/taemo/)(Gmarket) | 5.26 |
-| 3강 | 2장 | 경제성 평가를 위한 무작위 통제 실험 | [조인서](https://www.linkedin.com/in/yinseo-cho/)(KOICA) | 6.15 |
-| 4강 | 3장 | 게임 유저의 생존분석 관점에서의 그래프 인과모델 소개 | [박시온](https://www.linkedin.com/in/rockgoat95/)(넥슨코리아) | 6.17 |
-| 5강 | 4장 | 실무자가 바라본 고객 신용한도와 채무 불이행률의 인과적 관계 | [정호재](https://www.linkedin.com/in/wjdghwo/)(롯데캐피탈) | 6.23 |
+| 3강 | 2장 | [경제성 평가를 위한 무작위 통제 실험](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/03_%EA%B2%BD%EC%A0%9C%EC%84%B1%ED%8F%89%EA%B0%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%AC%B4%EC%9E%91%EC%9C%84%20%ED%86%B5%EC%A0%9C%EC%8B%A4%ED%97%98.pdf) | [조인서](https://www.linkedin.com/in/yinseo-cho/)(KOICA) | 6.15 |
+| 4강 | 3장 | [유저 이탈 관점에서의 그래프 인과모형 소개](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/04_%EC%9C%A0%EC%A0%80%20%EC%9D%B4%ED%83%88%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C%EC%9D%98%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B8%EA%B3%BC%20%EB%AA%A8%ED%98%95%20%EC%86%8C%EA%B0%9C.pdf) | [박시온](https://www.linkedin.com/in/rockgoat95/)(넥슨코리아) | 6.17 |
+| 5강 | 4장 | [실무자가 바라본 고객 신용한도와 채무 불이행률의 인과적 관계](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/05_%EC%8B%A4%EB%AC%B4%EC%9E%90%EA%B0%80%20%EB%B0%94%EB%9D%BC%EB%B3%B8%20%EA%B3%A0%EA%B0%9D%20%EC%8B%A0%EC%9A%A9%ED%95%9C%EB%8F%84%EC%99%80%20%EC%B1%84%EB%AC%B4%EB%B6%88%EC%9D%B4%ED%96%89%EB%A5%A0%EC%9D%98%20%EC%9D%B8%EA%B3%BC%EC%A0%81%20%EA%B4%80%EA%B3%84.pdf) | [정호재](https://www.linkedin.com/in/wjdghwo/)(롯데캐피탈) | 6.23 |
 | 6강 | 4장 | 마케팅 믹스 모델링과 다중회귀분석 | [최은희](https://www.linkedin.com/in/eunhui-choi-96bb652b2/)(넥슨코리아) | 6.30 |
 | 7강 | 5장 | 실험 설계에서의 매칭 활용 | [유정현](https://www.linkedin.com/in/jeonghyun-y-750a7b1b2/)(넥슨코리아) | 7.7 |
 | 8강 | 6장 | 유저 세그멘테이션과 개인화 관점에서의 인과추론 | [박병수](https://www.linkedin.com/in/byeongsu-park-58249b196/)(넥슨코리아) | 7.14 |
