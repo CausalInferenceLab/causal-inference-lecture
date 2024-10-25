@@ -35,17 +35,15 @@
 | 8강 | 6장 | [유저 세그멘테이션과 개인화 관점에서의 인과추론](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/08_%EC%9C%A0%EC%A0%80%20%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8%EC%99%80%20%EC%9D%B4%EC%A7%88%EC%A0%81%20%EC%B2%98%EC%B9%98%20%ED%9A%A8%EA%B3%BC.pdf) | [박병수](https://www.linkedin.com/in/byeongsu-park-58249b196/)(넥슨코리아) | 8.18 |
 | 9강 | 6장 | [게임 업데이트 효과에 따른 이질적 처치효과추정](https://github.com/CausalInferenceLab/causal-inference-lecture/blob/main/Lecture%20Notes/09_%EA%B2%8C%EC%9E%84%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%ED%9A%A8%EA%B3%BC%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%9D%B4%EC%A7%88%EC%A0%81%20%EC%B2%98%EC%B9%98%ED%9A%A8%EA%B3%BC%EC%B6%94%EC%A0%95.pdf) | [박이삭](https://www.linkedin.com/in/%EC%9D%B4%EC%82%AD-%EB%B0%95-75a7a916a/)(하이브 IM) | 8.25 |
 | 10강 | 7장 | 머신러닝 모델로 인과추론하기 | [김준영](https://www.linkedin.com/in/junsanity0108/)(컬럼비아대학교) | 9.8 |
-| 11강 | 8장 | 은행 정책관점에서의 패널데이터와 인과추론 | 박상우(한국은행) | 9.29 |
-| 12강 | 8장 | 외부 요인이 축구 게임 유입에 영향을 준 요인 찾기 | [임종언](https://www.linkedin.com/in/%EC%A2%85%EC%96%B8-%EC%9E%84-0523b8174/)(넥슨코리아) | 10.6 |
-| 13강 | 8장 | 게임에서 이중차분법 적용하고 비교하기 | [김지연](https://www.linkedin.com/in/jiyeon-k-088823157/)(EA Korea) | 10.13 |
-| 14강 | 9장 | 통제집단합성법을 활용한 업데이트 효과분석 | [박시온](https://www.linkedin.com/in/rockgoat95/)(넥슨코리아) | 10.20 |
-| 15강 | 10장 | 스위치백 실험 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 10.27 |
-| 16강 | 11장 | 도구변수를 통한 프로덕트의 인앱 푸시 효과 측정 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 11.3 |
-| 17강 | 12장 | 인과관계 발견 및 모델 개발/운영 소개 | [김성수](https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/)(LG CNS) | 11.10 |
-| 18강 | 인과추론과 실무 | 구독 상품에 따른 retention의 인과효과 추정하기 | [김소희](https://www.linkedin.com/in/sohee-kim-9460b6113/)(TVING) | 11.17 |
-| 19강 | 인과추론과 실무 | 임상 관찰 연구에서 RCT 모사를 위한 Target Trial Emulation | [박상호](https://www.linkedin.com/in/sangho-park-4220aa22a/)(성균관대학교) | 11.24 |
-| 20강 | 인과추론과 실무 | 실무에 적용하는 인과추론 템플릿 | [김성수](https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/)(LG CNS) | 12.01 |
-| 21강 | 종강 | 에필로그 소개 및 특강 갈무리 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 12.08 |
+| 11강 | 8장 | 외부 요인이 축구 게임 유입에 영향을 준 요인 찾기 | [임종언](https://www.linkedin.com/in/%EC%A2%85%EC%96%B8-%EC%9E%84-0523b8174/)(넥슨코리아) | 11.17 |
+| 12강 | 9장 | 통제집단합성법을 활용한 업데이트 효과분석 | [박시온](https://www.linkedin.com/in/rockgoat95/)(넥슨코리아) | 11.24 |
+| 13강 | 10장 | 스위치백 실험 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 12.15 |
+| 14강 | 11장 | 도구변수를 통한 프로덕트의 인앱 푸시 효과 측정 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 12.22 |
+| 15강 | 12장 | 인과관계 발견 및 모델 개발/운영 소개 | [김성수](https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/)(LG CNS) | 12.29 |
+| 16강 | 인과추론과 실무 | 구독 상품에 따른 retention의 인과효과 추정하기 | [김소희](https://www.linkedin.com/in/sohee-kim-9460b6113/)(TVING) | 01.12 |
+| 17강 | 인과추론과 실무 | 임상 관찰 연구에서 RCT 모사를 위한 Target Trial Emulation | [박상호](https://www.linkedin.com/in/sangho-park-4220aa22a/)(성균관대학교) | 01.19 |
+| 18강 | 인과추론과 실무 | 실무에 적용하는 인과추론 템플릿 | [김성수](https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/)(LG CNS) | 01.26 |
+| 19강 | 종강 | 에필로그 소개 및 특강 갈무리 | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)(크래프톤) | 01.26 |
 
 ------------
 
